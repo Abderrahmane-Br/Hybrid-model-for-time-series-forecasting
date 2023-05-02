@@ -1,1 +1,1 @@
-# CNN-LSTM model for time series forecasting
+# Hybrid model for time series forecasting
